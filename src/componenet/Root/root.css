@@ -1,0 +1,10 @@
+.hlw{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+}
+.active{
+    text-decoration: overline;
+    border: 2px solid teal;
+    padding: 10px;
+}
